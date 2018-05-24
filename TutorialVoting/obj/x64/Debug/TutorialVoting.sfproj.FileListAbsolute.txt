@@ -1,0 +1,1 @@
+C:\Project\ServiceFabric\TutorialVoting\TutorialVoting\obj\x64\Debug\TutorialVoting.sfproj.CoreCompileInputs.cache

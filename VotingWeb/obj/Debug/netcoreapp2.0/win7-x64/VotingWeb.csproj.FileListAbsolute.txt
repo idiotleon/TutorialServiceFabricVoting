@@ -1,0 +1,14 @@
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.csproj.CoreCompileInputs.cache
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.AssemblyInfoInputs.cache
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.AssemblyInfo.cs
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.exe
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.deps.json
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.runtimeconfig.json
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.runtimeconfig.dev.json
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.dll
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\bin\Debug\netcoreapp2.0\win7-x64\VotingWeb.pdb
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.csprojAssemblyReference.cache
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.dll
+C:\Project\ServiceFabric\TutorialVoting\VotingWeb\obj\Debug\netcoreapp2.0\win7-x64\VotingWeb.pdb
